@@ -1,8 +1,7 @@
 import avatar from "../assets/avatar.png"
 
 function Avatar() {
-    return (
-         
+    return (         
         <div>
             <img src={avatar} alt="avatar" className="avatar"/>            
         </div>
